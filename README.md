@@ -1,6 +1,6 @@
 # Multi-state-genome-wide-transition-analysis-of-multiple-sclerosis-disability-scores-
 
-This repository contains codes used to analysed the data in the article "Multi-state genome-wide transition analysis of multiple sclerosis disability scores reveals 36 genetic loci associated with disability progression". This data has not yet been published.
+This repository contains codes used to analysed the data in the article "Multi-state genome-wide transition analysis of multiple sclerosis disability scores reveals 36 genetic loci associated with disability progression". This article has not yet been published.
 
 
 ## Abstract
