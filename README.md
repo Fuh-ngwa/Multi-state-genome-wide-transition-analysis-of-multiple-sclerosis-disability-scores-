@@ -20,4 +20,4 @@ disability states.
 
 ## This study is currently ongoing.
 
-The R codes for the multistate genome-wide association analysis of disability scores in multiple sclerosis will be uploaded to this repository once the article has been accepted and published
+The R codes for the multistate genome-wide association analysis will be uploaded to this repository once the article has been accepted and published
