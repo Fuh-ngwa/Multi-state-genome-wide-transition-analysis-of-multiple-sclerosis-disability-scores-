@@ -17,3 +17,7 @@ learning to identify genetic variants having meaningful associations with smooth
 transition times. Next, we used a time-homogenous continuous-time multi-state
 (stochastic) transition model to assess the instantaneous risk to transition between
 disability states.
+
+## This anslysis is still being conducted
+
+This analysis still being carried. Please watchout for the R codes once the paper is published.
