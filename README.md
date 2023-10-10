@@ -20,4 +20,4 @@ disability states.
 
 ## This anslysis is still being conducted
 
-This analysis still being carried. Please watchout for the R codes once the paper is published.
+This analysis still being conducted. The R codes will be published here once the paper has been accepted and published
