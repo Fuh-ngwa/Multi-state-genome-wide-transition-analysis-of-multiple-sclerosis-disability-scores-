@@ -18,6 +18,6 @@ transition times. Next, we used a time-homogenous continuous-time multi-state
 (stochastic) transition model to assess the instantaneous risk to transition between
 disability states.
 
-## This anslysis is being conducted
+## This study is currently ongoing.
 
-The R codes for this analysis will be uploaded to this repository once the article has been accepted and published
+The R codes for the multistate genome-wide association analysis of disability scores in multiple sclerosis will be uploaded to this repository once the article has been accepted and published
